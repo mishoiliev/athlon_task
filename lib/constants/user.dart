@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';g
+import 'package:flutter/material.dart';
 
 const Map<String, dynamic> user = {
   'id': 1,
